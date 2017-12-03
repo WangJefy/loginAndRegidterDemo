@@ -1,0 +1,8 @@
+<servlet>
+ 	 <servlet-name>Encodeing</servlet-name>
+	 <servlet-class>cn.hncu.com.encode.Encodeing</servlet-class>
+ 	 <init-param>
+	 	<param-name>charset</param-name>
+	 	<param-value>utf-8</param-value>
+	 </init-param>
+ </servlet>
